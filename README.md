@@ -1,4 +1,4 @@
-<h2 align="left"># 🐈‍⬛ Schumacher Itagiba</h2>
+#🐈‍⬛ Schumacher Itagiba
 
 **`Information Systems student`**
 
