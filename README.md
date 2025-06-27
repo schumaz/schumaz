@@ -1,16 +1,13 @@
-## Hi there 👋
+<h2 align="left"># 🐈‍⬛ Schumacher Itagiba</h2>
 
-<!--
-**schumaz/schumaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Information Systems student`**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning C - C++.
+- 🌎 Fluent in Brazilian Portuguese with intermediate proficiency in English.
+- 🔭 I am focused on my academic pursuits as an Information Systems student at the Federal University of Uberlândia (UFU).
+- 📫 How to reach me: schumaz.business@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=schumaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=schumaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
