@@ -34,7 +34,3 @@ Currently developing a robust Condominium Management System built entirely in **
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro" />
 <img src="https://img.shields.io/badge/DaVinci_Resolve-CE5254?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci" />
 
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=schumaz&show_icons=true&theme=radical" alt="Schumaz's GitHub Stats" />
-</div>
