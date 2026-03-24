@@ -14,9 +14,9 @@ Welcome to my GitHub! 👋 I am driven by challenges and the constant search for
 
 ### 🚀 Featured Project
 
-**🏢 [GESTAO_CONDOMINIAL](https://github.com/schumaz/CondoHub)**
-Currently developing a robust Condominium Management System built entirely in **C**. This project goes beyond the basics, focusing on strong logic, **code modularization**, and **dynamic memory allocation** to efficiently manage complex condominium routines and data. 
-*(Click the link above to check out the code!)*
+**🎮 [LEAGUE_STATS_ANALYZER](https://github.com/schumaz/League_stats_analyzer)** A League of Legends statistics analysis tool built in **Python**. This project integrates with the **Riot Games API** to fetch raw match data via player ID, focusing on **data processing** and **dynamic visualization** to efficiently display complex performance insights.
+
+**🏢 [GESTAO_CONDOMINIAL](https://github.com/schumaz/CondoHub)** A Condominium Management System built entirely in **C**. This project is built focusing on strong logic, **code modularization**, and **dynamic memory allocation** to efficiently manage complex condominium routines and data.
 
 ---
 
