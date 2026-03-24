@@ -4,9 +4,9 @@
 
 Welcome to my GitHub! 👋 I am driven by challenges and the constant search for efficient solutions. My journey in tech started with troubleshooting and PC hardware optimization, and has now found its true home in software programming. 
 
-- 🌱 I’m currently in my **2nd semester** studying Information Systems at the Federal University of Uberlândia (UFU).
+- 🌱 I’m currently in my **3nd semester** studying Information Systems at the Federal University of Uberlândia (UFU).
 - 💻 Focusing my studies and projects on **C and C++**.
-- ⚙️ Beyond coding, I'm a tech enthusiast exploring **local AI models (Ollama)**, **PC hardware optimization**, and **Video Editing**.
+- ⚙️ Beyond coding, I'm a **tech enthusiast** who loves, **PC hardware optimization**, and **Video Editing**.
 - 🌎 Fluent in Brazilian Portuguese with intermediate proficiency in English.
 - 📫 How to reach me: [schumaz.business@gmail.com](mailto:schumaz.business@gmail.com)
 
