@@ -1,36 +1,32 @@
-# 🐈‍⬛ Schumacher Itagiba (Schumaz)
+# Schumacher Itagiba (schumaz)
 
-<h3 align="left">Information Systems Student @ UFU | C & C++ Developer | Hardware & Tech Enthusiast</h3>
+4th-semester Information Systems student at the Federal University of Uberlândia (UFU), currently looking for a software engineering internship in backend, systems, or full-stack development.
 
-Welcome to my GitHub! 👋 I am driven by challenges and the constant search for efficient solutions. My journey in tech started with troubleshooting and PC hardware optimization, and has now found its true home in software programming. 
+Contact: [schumaz.business@gmail.com](mailto:schumaz.business@gmail.com)
 
-- 🌱 I’m currently in my **3nd semester** studying Information Systems at the Federal University of Uberlândia (UFU).
-- 💻 Focusing my studies and projects on **C and C++**.
-- ⚙️ Beyond coding, I'm a **tech enthusiast** who loves, **PC hardware optimization**, and **Video Editing**.
-- 🌎 Fluent in Brazilian Portuguese with intermediate proficiency in English.
-- 📫 How to reach me: [schumaz.business@gmail.com](mailto:schumaz.business@gmail.com)
+## About
 
----
+I got into programming through hardware and OS tuning. Understanding how the system handles memory, CPU scheduling, and I/O bottlenecks naturally led me to care about low-level performance and how software behaves under the hood.
 
-### 🚀 Featured Project
+Outside of code and university classes, I spend a lot of time squeezing performance out of my own hardware and network. That usually means dialing in overclock, undervolting, tightening RAM timings, stripping down my OS.
 
-**🎮 [LEAGUE_STATS_ANALYZER](https://github.com/schumaz/League_stats_analyzer)** A League of Legends statistics analysis tool built in **Python**. This project integrates with the **Riot Games API** to fetch raw match data via player ID, focusing on **data processing** and **dynamic visualization** to efficiently display complex performance insights.
+## Stack
 
-**🏢 [GESTAO_CONDOMINIAL](https://github.com/schumaz/CondoHub)** A Condominium Management System built entirely in **C**. This project is built focusing on strong logic, **code modularization**, and **dynamic memory allocation** to efficiently manage complex condominium routines and data.
+- **Systems & Low-Level:** C, C++, Rust
+- **Backend & Data:** Java (Spring Boot, JPA), Python, PostgreSQL
+- **Frontend & Desktop:** TypeScript, React, Tauri, CSS
+- **Tools:** Git, GitHub, Maven, VS Code
 
----
+## Projects
 
-### 🛠️ Tech Stack & Tools
+### [schumaz.gg](https://github.com/schumaz/schumaz.gg)
+Desktop companion app for League of Legends built with Rust, Tauri, and React/TypeScript. I chose Tauri over Electron to keep memory usage and background CPU overhead as low as possible while the game runs. It connects directly to the League Client (LCU API) via local WebSockets and REST to detect Champion Select in real time, then scrapes and injects OP.GG rune pages, summoner spells, and item builds automatically. It also includes Ranked tier lists, ARAM builds, and summoner profile history.
 
-**Languages & Development:**
-<br>
-<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+### [League_stats_analyzer](https://github.com/schumaz/League_stats_analyzer)
+Python tool that pulls match history from the Riot Games API, parses the JSON payloads, and calculates player performance metrics across multiple games.
 
-**Other Skills & Tools:**
-<br>
-<img src="https://img.shields.io/badge/Hardware_Optimization-333333?style=for-the-badge&logo=amd&logoColor=white" alt="Hardware" />
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro" />
-<img src="https://img.shields.io/badge/DaVinci_Resolve-CE5254?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci" />
+### [gestao-lixo-eletronico](https://github.com/schumaz/gestao-lixo-eletronico)
+REST API built for the Software Development Process course at UFU to track electronic waste disposal, recycling logistics, and mass balance control. Written in Java 17 with Spring Boot, Spring Data JPA, and PostgreSQL.
 
+### [ds2-huffman-compression](https://github.com/schumaz/ds2-huffman-compression)
+File compression and decompression tool in C, developed for Data Structures II at UFU. Uses binary trees, priority queues, and bitwise file I/O to implement Huffman coding from scratch.
